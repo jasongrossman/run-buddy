@@ -73,10 +73,10 @@ header nav ul li a {
 
  .hero {
     background-image: url("../images/hero-bg.jpg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
  }
 
  .hero-form {
@@ -268,3 +268,4 @@ header nav ul li a {
  .contact-info a {
      color:#fce138;
  }
+
